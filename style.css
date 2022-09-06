@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://images6.alphacoders.com/379/379569.png" );
+
+
+}
+
+
+h1{ 
+    text-align: center;
+    color: white;
+}   
+
+
+h2{ 
+    text-align: left;
+    color: white;
+    margin-left:200px ;
+}   
+
+img{
+    width: 240px; 
+    height: 270px;
+    margin-left: 200px;
+}
+
+#margem{
+    margin-left: -80px;
+}
+
+#margem2{
+    margin-left: -95px;
+}
